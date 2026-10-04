@@ -24,6 +24,10 @@ I am an Adjunct Professor in the Department of Environmental Health, Graduate Sc
 
 Also on PyPI: [recd-clock](https://pypi.org/project/recd-clock/), gate RECD (τₛ + Feigenbaum gate).
 
+## Book
+
+- *Systemic Tau and the Discrete Architecture of Time: A synthesis of the Systemic Tau paradigm, the Discrete Extramental Clock, the three-layer ontology, and ontological ascent* (2nd ed.). Independently published, July 17, 2026. 233 pp. ISBN 979-8187754526. [Amazon](https://www.amazon.com/dp/B0H9BJ34MG) (Kindle, hardcover, paperback).
+
 ## Selected preprints
 
 All deposited on Zenodo (2026). DOIs resolve to the latest version.
